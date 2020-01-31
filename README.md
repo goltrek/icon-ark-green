@@ -1,4 +1,4 @@
-# icon-ark-green
+# Acon-Ark-Green
 Icon Ark Green
 é baixado o arquivo icon-ark-green-master.zip. Extrair a pasta icon-ark-green-master para sua /home. Dentro da pasta icon-ark-green-master tem o arquivo Ark-Green.zip. Extrair o arquivo para /home/.icons.
 _____
